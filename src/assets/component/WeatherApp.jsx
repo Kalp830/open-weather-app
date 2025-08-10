@@ -36,12 +36,14 @@ const WeatherApp = () => {
   }, [city]);
 
   return (
-    <div className="appContainer">
+    <div className="appContainer flex-column">
+      <h3 className="text-white my-3">Weather Forecast</h3>
       <div className="appInner">
         <input
           type="text"
-          placeholder="Enter City Name..."
+          placeholder="Enter City Name"
           value={city}
+          name="search-box"
           onChange={(e) => setCity(e.target.value)}
         />
 
