@@ -9,13 +9,13 @@ Features
 5. Built with HTML, CSS, and JavaScript
 
 #Clone the Repository    
-git clone https://github.com/Kalp830/open-weather-app.git
-npm install
-cd weather-app
-npm run dev
+1. git clone https://github.com/Kalp830/open-weather-app.git
+2. npm install
+3. cd weather-app
+4. npm run dev
 
 🛠 Technologies Used
-HTML5
-CSS3
-JavaScript (ES6)
-OpenWeather API
+1. HTML5
+2. CSS3
+3. JavaScript (ES6)
+4. OpenWeather API
