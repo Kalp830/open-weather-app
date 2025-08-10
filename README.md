@@ -8,10 +8,11 @@ Features
 4. Responsive layout for mobile, tablet, and desktop
 5. Built with HTML, CSS, and JavaScript
 
-#Clone the Repository    
+⚙️ Installation
+Clone the Repository    
 1. git clone https://github.com/Kalp830/open-weather-app.git
 2. npm install
-3. cd weather-app
+3. cd open-weather-app
 4. npm run dev
 
 🛠 Technologies Used
